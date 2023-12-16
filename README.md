@@ -87,7 +87,7 @@ user       device    orientation distance  environment   posture      count  for
 
 **If you have used this dataset, please cite the following information:**
 
-> https://github.com/IPMC-Group
+> [https://github.com/IPMC-Group](https://github.com/ISAC-GROUP/ISAC-Gesture)
 
 
 
