@@ -65,7 +65,7 @@ The dataset contains a series of gesture data perceived by sound waves for gestu
 1. **Download**: Clone or download the dataset locally.
 
 ```bash
-git clone https://github.com/Taot7/Test.git
+git clone https://github.com/ISAC-GROUP/ISAC-Gesture.git
 ```
 
 2. **Data format:** Data sets are stored as image files in their respective category folders.
